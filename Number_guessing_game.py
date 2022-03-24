@@ -20,6 +20,8 @@ def main():
     if number != constants.right_number:
         print("You guessed wrong!")
 
+    print("\nDone.")
+
 
 if __name__ == "__main__":
     main()
